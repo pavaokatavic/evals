@@ -1,0 +1,10 @@
+[project]
+name = "evals"
+version = "0.1.0"
+description = "Simple LLM product evals demo"
+requires-python = ">=3.10"
+dependencies = [
+    "google-generativeai",
+    "openai>=1.0",
+    "python-dotenv",
+]

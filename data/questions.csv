@@ -1,0 +1,201 @@
+id,question,response,label
+1,What is 2 + 2?,2 + 2 = 4.,pass
+2,What is the capital of France?,The capital of France is Paris.,pass
+3,How do you print hello world in Python?,"You can print ""hello world"" in Python using the `print()` function. Simply type `print(""hello world"")` and execute the code.",pass
+4,What is the largest planet in our solar system?,"The largest planet in our solar system is Jupiter. It's a gas giant, significantly bigger than all the other planets.",pass
+5,What does HTML stand for?,HTML stands for HyperText Markup Language. It's the standard markup language for creating web pages.,pass
+6,How many continents are there?,"There are seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",pass
+7,What is the speed of light?,"The speed of light is approximately 299,792,458 meters per second in a vacuum. It is a fundamental physical constant.",pass
+8,Who wrote Romeo and Juliet?,William Shakespeare wrote Romeo and Juliet.,pass
+9,What is the chemical symbol for water?,The chemical symbol for water is H₂O. This represents a molecule composed of two hydrogen atoms and one oxygen atom.,pass
+10,What year did World War 2 end?,World War 2 ended in 1945.,pass
+11,What is the square root of 144?,The square root of 144 is 12.,pass
+12,What programming language is known for data science?,"Python is a popular programming language widely used in data science. It offers a rich ecosystem of libraries for data analysis, machine learning, and visualization.",pass
+13,What is the capital of Japan?,The capital of Japan is Tokyo.,pass
+14,How many bits in a byte?,There are 8 bits in a byte.,pass
+15,What does CPU stand for?,CPU stands for Central Processing Unit. It is the primary component of a computer that executes instructions.,pass
+16,What is the largest ocean?,The largest ocean is the Pacific Ocean. It covers more of Earth's surface than all the land combined.,pass
+17,Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.,pass
+18,What is gravity measured in?,Gravity is measured in Newtons (N).,fail
+19,What is the boiling point of water in Celsius?,The boiling point of water in Celsius is 100 degrees.,pass
+20,What does API stand for?,API stands for Application Programming Interface. It defines how software components should interact with each other.,pass
+21,What is the smallest prime number?,The smallest prime number is 2. A prime number is a whole number greater than 1 that has only two divisors: 1 and itself.,pass
+22,How many planets are in our solar system?,There are eight planets in our solar system. These planets orbit the sun and vary in size and composition.,pass
+23,What is the capital of Germany?,The capital of Germany is Berlin.,pass
+24,What does SQL stand for?,SQL stands for Structured Query Language. It's a programming language used to manage and manipulate data in relational database management systems.,pass
+25,Who invented the telephone?,Alexander Graham Bell is credited with inventing the telephone. He patented his design in 1876.,pass
+26,What is the chemical symbol for gold?,The chemical symbol for gold is Au.,pass
+27,What year was the internet invented?,"The internet's origins can be traced back to the late 1960s, with significant advancements and the creation of the ARPANET. However, the modern internet as we know it didn't fully take shape until the early 1980s.",fail
+28,What is 15% of 200?,15% of 200 is 30. You can calculate this by multiplying 200 by 0.15.,pass
+29,What does HTTP stand for?,HTTP stands for Hypertext Transfer Protocol. It's the foundation of data communication on the World Wide Web.,pass
+30,What is the longest river in the world?,The longest river in the world is the Amazon River. It flows through South America.,fail
+31,How do you create a list in Python?,"You can create a list in Python by enclosing comma-separated items within square brackets, or by using the `list()` constructor.",pass
+32,What is the capital of Australia?,The capital of Australia is Canberra.,pass
+33,What does RAM stand for?,RAM stands for Random Access Memory. It's a type of computer memory used for storing data that the computer is actively using.,pass
+34,What is the freezing point of water in Fahrenheit?,The freezing point of water in Fahrenheit is 32 degrees.,pass
+35,Who discovered penicillin?,Alexander Fleming discovered penicillin in 1928.,pass
+36,What is the chemical formula for carbon dioxide?,The chemical formula for carbon dioxide is CO₂. This indicates one carbon atom bonded to two oxygen atoms.,pass
+37,What does JSON stand for?,JSON stands for JavaScript Object Notation. It's a lightweight format for data interchange.,pass
+38,How many hours in a week?,There are 168 hours in a week.,pass
+39,What is the capital of Canada?,The capital of Canada is Ottawa.,pass
+40,What programming language runs in browsers?,JavaScript is the primary programming language that runs in web browsers. It allows for interactive and dynamic web page functionality.,pass
+41,What is the tallest mountain?,"Mount Everest is the tallest mountain, reaching a height of over 8,848 meters (29,031.7 feet) above sea level.",pass
+42,What does URL stand for?,URL stands for Uniform Resource Locator. It is a web address used to locate a resource on the internet.,pass
+43,How do you comment in Python?,"In Python, you comment code using the hash symbol (#) for single-line comments.  Multi-line comments can be achieved using triple quotes ("""""" or ''').",pass
+44,What is the capital of Italy?,The capital of Italy is Rome.,pass
+45,What is 7 factorial?,"7 factorial (7!) is the product of all positive integers less than or equal to 7.  Therefore, 7! = 5040.",pass
+46,Who developed the theory of relativity?,"Albert Einstein developed the theory of relativity. This groundbreaking theory revolutionized our understanding of space, time, gravity, and the universe.",pass
+47,What does CSS stand for?,CSS stands for Cascading Style Sheets. It is used to style the presentation of a webpage.,pass
+48,How many sides does a hexagon have?,A hexagon has six sides.,pass
+49,What is the capital of Spain?,The capital of Spain is Madrid.,pass
+50,What is the chemical symbol for iron?,The chemical symbol for iron is Fe.,pass
+51,What does IDE stand for?,IDE stands for Integrated Development Environment. It's a software application providing comprehensive facilities to computer programmers for software development.,pass
+52,How do you declare a variable in JavaScript?,"You declare a variable in JavaScript using the keywords `let`, `const`, or `var`, followed by the variable name. The `let` and `const` keywords are generally preferred for modern JavaScript.",pass
+53,What is the capital of Brazil?,The capital of Brazil is Brasília.,pass
+54,What is the largest mammal?,The largest mammal is the blue whale. It can grow up to 100 feet long and weigh over 200 tons.,pass
+55,Who invented the light bulb?,"Thomas Edison is widely credited with inventing the light bulb, though he built upon the work of many predecessors.",pass
+56,What does DNS stand for?,DNS stands for Domain Name System. It translates human-readable domain names into IP addresses.,pass
+57,How many meters in a kilometer?,"There are 1,000 meters in a kilometer.",pass
+58,What is the capital of India?,The capital of India is New Delhi.,pass
+59,What is binary for the number 10?,The binary representation of the number 10 is 1010.,pass
+60,What does GPU stand for?,GPU stands for Graphics Processing Unit. It is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device.,pass
+61,Who wrote 1984?,George Orwell wrote the novel *1984*.,pass
+62,What is the chemical symbol for sodium?,The chemical symbol for sodium is Na.,pass
+63,How do you create a function in Python?,"In Python, you create a function using the `def` keyword, followed by the function name, parentheses (which can contain parameters), and a colon. The function's code block is then indented below.",pass
+64,What is the capital of China?,The capital of China is Beijing.,pass
+65,What is the hardest natural substance?,Diamond is the hardest natural substance.,pass
+66,What does SSH stand for?,"SSH stands for Secure Shell. It's a cryptographic network protocol used for secure data communication, remote login, and other network services.",pass
+67,How many seconds in an hour?,There are 3600 seconds in an hour.,pass
+68,What is the capital of Russia?,The capital of Russia is Moscow.,pass
+69,What is 2 to the power of 10?,2 to the power of 10 is 1024.,pass
+70,Who founded Microsoft?,Microsoft was founded by Bill Gates and Paul Allen.,pass
+71,What does OOP stand for?,"OOP stands for Object-Oriented Programming. It's a programming paradigm based on the concept of ""objects,"" which can contain data and code.",pass
+72,How do you handle errors in Python?,"In Python, errors are handled using `try-except` blocks to catch and manage exceptions, preventing program crashes and allowing for graceful recovery. You can also raise exceptions using the `raise` keyword to signal specific error conditions.",pass
+73,What is the capital of South Korea?,The capital of South Korea is Seoul.,pass
+74,What is the speed of sound?,The speed of sound is approximately 343 meters per second (767 mph) in dry air at 20°C (68°F). It varies depending on the medium and temperature.,pass
+75,What does HTTPS add to HTTP?,"HTTPS adds security to HTTP by encrypting the communication between a web browser and server, using SSL/TLS protocols to protect data in transit.",pass
+76,How many weeks in a year?,There are 52 weeks in a year.,pass
+77,What is the capital of Mexico?,The capital of Mexico is Mexico City.,pass
+78,What is the chemical symbol for silver?,The chemical symbol for silver is Ag.,pass
+79,Who invented the World Wide Web?,Sir Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN.,pass
+80,What does CLI stand for?,CLI stands for Command Line Interface. It is a text-based user interface used to interact with a computer system.,pass
+81,How do you import a module in Python?,"You import a module in Python using the `import` statement, followed by the module's name. For example, `import math` imports the math module.",pass
+82,What is the capital of Egypt?,The capital of Egypt is Cairo.,pass
+83,What is absolute zero in Celsius?,Absolute zero in Celsius is -273.15 degrees.,pass
+84,What does REST stand for?,REST stands for Representational State Transfer. It's an architectural style for designing networked applications.,pass
+85,How many chromosomes do humans have?,"Humans have 46 chromosomes, organized into 23 pairs.",pass
+86,What is the capital of Argentina?,The capital of Argentina is Buenos Aires.,pass
+87,What is the Pythagorean theorem?,"The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.  It's typically written as a² + b² = c².",pass
+88,Who founded Apple?,"Steve Jobs, Steve Wozniak, and Ronald Wayne founded Apple.",pass
+89,What does CRUD stand for?,"CRUD stands for Create, Read, Update, and Delete, which represent the fundamental operations performed on data in a database.",pass
+90,How do you create a dictionary in Python?,"You can create a dictionary in Python using curly braces `{}` and key-value pairs separated by colons, or by using the `dict()` constructor. For example, `my_dict = {""key"": ""value""}` or `my_dict = dict(key=""value"")`.",pass
+91,What is the capital of Turkey?,The capital of Turkey is Ankara.,pass
+92,What is the chemical symbol for potassium?,The chemical symbol for potassium is K.,pass
+93,What does TCP stand for?,TCP stands for Transmission Control Protocol. It is a communication protocol used on the internet.,pass
+94,How many degrees in a circle?,A circle contains 360 degrees.,pass
+95,What is the capital of Poland?,The capital of Poland is Warsaw.,pass
+96,What is Avogadro's number?,"Avogadro's number is the number of atoms or molecules in one mole of a substance, which is approximately 6.022 x 10^23.",pass
+97,Who invented Python?,Python was invented by Guido van Rossum.,pass
+98,What does XML stand for?,XML stands for Extensible Markup Language. It's a markup language designed for storing and transporting data.,pass
+99,How do you slice a list in Python?,"You slice a list in Python using square brackets and specifying a start index, an end index (exclusive), and an optional step.  For example, `my_list[start:end:step]`.",pass
+100,What is the capital of Netherlands?,"The capital of the Netherlands is Amsterdam. However, the seat of government is located in The Hague.",pass
+101,What is the formula for area of a circle?,"The formula for the area of a circle is πr², where r represents the radius of the circle.",pass
+102,What does SMTP stand for?,SMTP stands for Simple Mail Transfer Protocol. It's a communication protocol for sending email.,pass
+103,How many bones in the human body?,The adult human body typically has 206 bones. This number can vary slightly depending on the individual.,pass
+104,What is the capital of Sweden?,The capital of Sweden is Stockholm.,pass
+105,What is the chemical symbol for copper?,The chemical symbol for copper is Cu.,pass
+106,Who founded Amazon?,Jeff Bezos founded Amazon.,pass
+107,What does SDK stand for?,SDK stands for Software Development Kit. It's a collection of tools and resources that software developers use to create applications for a specific platform.,pass
+108,How do you read a file in Python?,"You can read a file in Python using the `open()` function to open the file and then use methods like `read()`, `readline()`, or `readlines()` to read its contents.  The file should be closed after you are done reading from it.",pass
+109,What is the capital of Norway?,The capital of Norway is Oslo.,pass
+110,What is the value of pi to 2 decimals?,"Pi, rounded to two decimal places, is 3.14.",pass
+111,What does FTP stand for?,FTP stands for File Transfer Protocol. It's a standard network protocol used for transferring files between a client and a server.,pass
+112,How many teeth do adults have?,"Adults typically have 32 teeth. This includes incisors, canines, premolars, and molars.",pass
+113,What is the capital of Switzerland?,The capital of Switzerland is Bern.,pass
+114,What is the chemical formula for salt?,"The chemical formula for salt is NaCl, which represents sodium chloride.",pass
+115,Who invented JavaScript?,Brendan Eich invented JavaScript. He developed it in 1995 while working at Netscape.,pass
+116,What does LAN stand for?,"LAN stands for Local Area Network. It's a computer network that connects devices within a limited area, like a home or office.",pass
+117,How do you write a loop in Python?,"You write a loop in Python using keywords like `for` and `while`, followed by a condition or iterable and a block of code to be executed repeatedly.",pass
+118,What is the capital of Austria?,The capital of Austria is Vienna.,pass
+119,What is the charge of an electron?,An electron has a negative charge. Its charge is approximately -1.602 x 10^-19 Coulombs.,pass
+120,What does SSD stand for?,SSD stands for Solid State Drive. It is a type of storage device that uses flash memory to store data.,pass
+121,How many days in a leap year?,A leap year has 366 days.,pass
+122,What is the capital of Belgium?,The capital of Belgium is Brussels.,pass
+123,What is the chemical symbol for lead?,The chemical symbol for lead is Pb.,pass
+124,Who founded Tesla?,"Tesla was founded by Martin Eberhard and Marc Tarpenning, but Elon Musk later became CEO and is largely associated with the company.",pass
+125,What does CSV stand for?,CSV stands for Comma-Separated Values. It is a file format that stores data in a tabular structure.,pass
+126,How do you concatenate strings in Python?,"You can concatenate strings in Python using the plus (+) operator or the `join()` method. The plus operator directly joins strings, while `join()` combines strings from an iterable with a specified separator.",pass
+127,What is the capital of Portugal?,Lisbon is the capital of Portugal.,pass
+128,What is the atomic number of carbon?,The atomic number of carbon is 6.,pass
+129,What does YAML stand for?,"YAML stands for ""YAML Ain't Markup Language"". It is a human-readable data serialization language.",pass
+130,How many minutes in a day?,There are 1440 minutes in a day.,pass
+131,What is the capital of Greece?,The capital of Greece is Athens.,pass
+132,What is the chemical symbol for mercury?,The chemical symbol for mercury is Hg.,pass
+133,Who created Linux?,Linus Torvalds created Linux. He developed the initial kernel in 1991.,pass
+134,What does FIFO stand for?,"FIFO stands for First-In, First-Out. It's a method used to manage inventory or data.",pass
+135,How do you check data type in Python?,You can check data types in Python using the `type()` function or the `isinstance()` function. Both methods return the data type of a variable or check if a variable is an instance of a specific type.,pass
+136,What is the capital of Ireland?,The capital of Ireland is Dublin.,pass
+137,What is the formula for velocity?,"Velocity is calculated by dividing displacement by the time taken, expressed as  v = d/t.",pass
+138,What does LIFO stand for?,"LIFO stands for Last-In, First-Out. It's a method used in accounting to value inventory.",pass
+139,How many states in the USA?,There are 50 states in the United States of America.,pass
+140,What is the capital of Finland?,The capital of Finland is Helsinki.,pass
+141,What is the chemical symbol for tin?,The chemical symbol for tin is Sn.,pass
+142,Who invented Git?,Linus Torvalds invented Git.,pass
+143,What does UUID stand for?,UUID stands for Universally Unique Identifier. It's a 128-bit value used for identifying information in computer systems.,pass
+144,How do you create a class in Python?,"You create a class in Python using the `class` keyword followed by the class name and a colon. Inside the class, you define attributes and methods.",pass
+145,What is the capital of Denmark?,The capital of Denmark is Copenhagen.,pass
+146,What is the atomic number of oxygen?,The atomic number of oxygen is 8.,pass
+147,What does ACID stand for in databases?,"ACID stands for Atomicity, Consistency, Isolation, and Durability, which are the properties that guarantee database transactions are processed reliably.",pass
+148,How many keys on a standard piano?,"A standard piano has 88 keys, consisting of 52 white keys and 36 black keys.",pass
+149,What is the capital of Czech Republic?,The capital of the Czech Republic is Prague.,pass
+150,What is the chemical formula for glucose?,The chemical formula for glucose is C6H12O6.,pass
+151,Who founded Google?,Larry Page and Sergey Brin founded Google.,pass
+152,What does BLOB stand for?,"BLOB stands for Binary Large Object. It's a data type used to store large amounts of binary data, such as images or audio files, within a database.",pass
+153,How do you sort a list in Python?,"You can sort a list in Python using the `sort()` method, which sorts the list in place, or the `sorted()` function, which returns a new sorted list without modifying the original.",pass
+154,What is the capital of Hungary?,The capital of Hungary is Budapest.,pass
+155,What is Euler's number approximately?,"Euler's number, often denoted as *e*, is approximately 2.71828. It is a mathematical constant that appears in various fields.",pass
+156,What does MIME stand for?,MIME stands for Multipurpose Internet Mail Extensions. It's a standard for formatting email messages to support various content types beyond plain text.,pass
+157,How many cards in a standard deck?,A standard deck of cards contains 52 cards.,pass
+158,What is the capital of Romania?,The capital of Romania is Bucharest.,pass
+159,What is the chemical symbol for zinc?,The chemical symbol for zinc is Zn.,pass
+160,Who created Ruby?,"Ruby was created by Yukihiro ""Matz"" Matsumoto.",pass
+161,What does JWT stand for?,JWT stands for JSON Web Token. It is a standard for securely transmitting information between parties as a JSON object.,pass
+162,How do you reverse a string in Python?,"You can reverse a string in Python using slicing with a step of -1, such as `string[::-1]`. This creates a reversed copy of the original string.",pass
+163,What is the capital of Ukraine?,The capital of Ukraine is Kyiv.,pass
+164,What is the formula for force?,Force is calculated using the formula: Force = mass x acceleration (F = ma).,pass
+165,What does CORS stand for?,CORS stands for Cross-Origin Resource Sharing. It is a security mechanism that restricts web pages from making requests to a different domain than the one that served the web page.,pass
+166,How many squares on a chessboard?,"There are a total of 204 squares on a chessboard, counting squares of all sizes.",fail
+167,What is the capital of Vietnam?,The capital of Vietnam is Hanoi.,pass
+168,What is the chemical symbol for nickel?,Ni is the chemical symbol for nickel.,pass
+169,Who founded Facebook?,Mark Zuckerberg founded Facebook.,pass
+170,What does OAuth stand for?,"OAuth stands for Open Authorization. It is an open standard for access delegation, commonly used to allow a user to grant a website or application access to their information on another website.",pass
+171,How do you get length of list in Python?,"You can get the length of a list in Python using the `len()` function, passing the list as an argument.  This returns the number of items in the list.",pass
+172,What is the capital of Thailand?,The capital of Thailand is Bangkok.,pass
+173,What is the atomic mass of hydrogen?,The atomic mass of hydrogen is approximately 1 atomic mass unit (amu).,pass
+174,What does CQRS stand for?,CQRS stands for Command Query Responsibility Segregation. It's an architectural pattern that separates read and update operations for a data store.,pass
+175,How many letters in the English alphabet?,There are 26 letters in the English alphabet.,pass
+176,What is the capital of Malaysia?,The capital of Malaysia is Kuala Lumpur.,pass
+177,What is the chemical symbol for calcium?,The chemical symbol for calcium is Ca.,pass
+178,Who invented C programming language?,Dennis Ritchie invented the C programming language. He developed it in the early 1970s at Bell Labs.,pass
+179,What does MVVM stand for?,MVVM stands for Model-View-ViewModel. It's a software architectural pattern that separates an application into three interconnected parts.,pass
+180,How do you remove duplicates from list in Python?,"You can remove duplicates from a list in Python by converting the list to a set, which automatically eliminates duplicates, and then converting it back to a list if needed. Alternatively, you can iterate through the list and add unique elements to a new list.",pass
+181,What is the capital of Singapore?,The capital of Singapore is Singapore City.,fail
+182,What is the value of golden ratio approximately?,The golden ratio is approximately 1.618. It is often represented by the Greek letter phi (φ).,pass
+183,What does MVC stand for?,MVC stands for Model-View-Controller. It's a software design pattern for developing user interfaces.,pass
+184,How many months have 31 days?,"Seven months have 31 days. They are January, March, May, July, August, October, and December.",pass
+185,What is the capital of Philippines?,The capital of the Philippines is Manila.,pass
+186,What is the chemical symbol for phosphorus?,The chemical symbol for phosphorus is P.,pass
+187,Who created Java?,Java was created by James Gosling at Sun Microsystems (now Oracle).,pass
+188,What does DRY stand for in programming?,"DRY stands for ""Don't Repeat Yourself"" in programming. It's a principle promoting code reuse and efficiency.",pass
+189,How do you check if key exists in dict Python?,"You can check if a key exists in a Python dictionary using the `in` operator or the `.get()` method. Both methods return `True` or the value associated with the key if the key is present, and `False` or `None` if it is not.",fail
+190,What is the capital of Indonesia?,The capital of Indonesia is Jakarta.,pass
+191,What is Planck's constant?,"Planck's constant is a fundamental physical constant that determines the size of quanta, the smallest units of energy. It's crucial in quantum mechanics, relating a photon's energy to its frequency.",pass
+192,What does SOLID stand for?,"SOLID is an acronym for five key principles of object-oriented design: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.",pass
+193,How many edges does a cube have?,A cube has 12 edges. These edges connect the vertices of the cube.,pass
+194,What is the capital of Pakistan?,Islamabad is the capital of Pakistan.,pass
+195,What is the chemical symbol for sulfur?,The chemical symbol for sulfur is S.,pass
+196,Who invented the C++ language?,Bjarne Stroustrup invented the C++ programming language.,pass
+197,What does TDD stand for?,TDD stands for Test-Driven Development. It's a software development process that emphasizes writing tests before writing the actual code.,pass
+198,How do you flatten a nested list in Python?,"You can flatten a nested list in Python using recursion or list comprehension, iterating through each element and appending non-list elements to a new list.",fail
+199,What is the capital of Bangladesh?,The capital of Bangladesh is Dhaka.,pass
+200,What is the formula for kinetic energy?,"The formula for kinetic energy is KE = 1/2 * mv², where KE is kinetic energy, m is mass, and v is velocity.",pass
