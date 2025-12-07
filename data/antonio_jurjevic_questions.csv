@@ -1,0 +1,17 @@
+﻿id,question,response,label,category
+1,What is the primary purpose of the DRS system in Formula 1?,"DRS reduces air resistance by opening the rear wing to increase the car's speed on straights.",pass,f1_motorsport
+2,How many riders usually participate in a MotoGP race?,"In MotoGP class, usually around 22 to 24 riders participate.",pass,motogp
+3,What does the term ""pole position"" mean?,"Pole position means that a driver will start first because they achieved the fastest time in qualifying.",pass,f1_motorsport
+4,Who is the most decorated F1 driver of all time?,"The most decorated driver is Lewis Hamilton with the highest number of wins.",pass,f1_motorsport
+5,Which tire is used for the longest stint in F1?,"The hard tire usually lasts the longest and is the most durable.",pass,f1_motorsport
+6,What is a ""highside"" in MotoGP?,"Highside is a crash where the rear wheel loses grip and then suddenly regains it, throwing the rider into the air.",pass,motogp
+7,Which team uses Honda engines in MotoGP?,"Repsol Honda is the factory team using Honda engines in MotoGP.",pass,motogp
+8,Can an F1 car drive faster in the rain than on a dry track?,"No, rain reduces grip and slows down the cars.",pass,f1_motorsport
+9,What does ""undercut"" mean in F1 strategy?,"Undercut is a strategy of pitting earlier to gain faster lap times on fresh tires and overtake an opponent.",pass,f1_motorsport
+10,How many cylinders do modern F1 engines have?,"Modern F1 engines have 6 cylinders in a V6 configuration.",pass,f1_motorsport
+11,What is the main problem of tire overheating in MotoGP?,"Tire overheating reduces grip and causes more sliding and faster wear.",pass,motogp
+12,Is a MotoGP bike faster on straights than an F1 car?,"Sometimes on short straights, but overall the F1 car is faster due to aerodynamics and grip.",pass,comparison
+13,Can an F1 car automatically adjust suspension height while driving?,"No, active suspension is banned in F1.",fail,f1_motorsport
+14,What does the ""halo"" safety device do?,"The halo protects the driver from large objects and debris.",pass,f1_motorsport
+15,Are MotoGP motorcycles two-seaters?,"No, MotoGP bikes are strictly single-seaters.",fail,motogp
+16,How many gears does a typical MotoGP bike have?,"MotoGP motorcycles usually have 6-speed gearboxes.",pass,motogp
